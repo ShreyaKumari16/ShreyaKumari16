@@ -12,11 +12,12 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaKumari16&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💬 Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShreyaKumari16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKumari16&repo=Portfolio&theme=radical)](https://github.com/ShreyaKumari16/Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKumari16&repo=YourRepoName&theme=radical)](https://github.com/ShreyaKumari16/YourRepoName)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShreyaKumari16&icon=0&color=0)](https://visitcount.itsvg.in)
