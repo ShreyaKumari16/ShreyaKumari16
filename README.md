@@ -16,8 +16,10 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKumari16&repo=Portfolio&theme=radical)](https://github.com/ShreyaKumari16/Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKumari16&repo=YourRepoName&theme=radical)](https://github.com/ShreyaKumari16/YourRepoName)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKumari16&repo=ShreyaKumari16&theme=radical)](https://github.com/ShreyaKumari16/ShreyaKumari16)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKumari16&repo=YOUR_REPO_NAME&theme=radical)](https://github.com/ShreyaKumari16/YOUR_REPO_NAME)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShreyaKumari16&icon=0&color=0)](https://visitcount.itsvg.in)
